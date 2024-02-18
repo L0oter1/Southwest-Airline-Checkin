@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer": "^21.10.0"
+  },
+  "type":"module",
+  "name": "southwest",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "engines": {
+    "node": "20.11.0"
+  }
+}
